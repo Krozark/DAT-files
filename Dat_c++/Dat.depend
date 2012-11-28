@@ -1,0 +1,35 @@
+# depslib dependency file v1.0
+1301399475 source:/home/maxime/Bureau/Projet_2/Tests/DAT/Dat/main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	"cDAT.hpp"
+
+1301332850 source:/home/maxime/Bureau/Projet_2/Tests/DAT/Dat/cDAT.cpp
+	"cDAT.hpp"
+
+1301332596 /home/maxime/Bureau/Projet_2/Tests/DAT/Dat/cDAT.hpp
+	"Structures.hpp"
+	<iostream>
+	<fstream>
+	"string.h"
+
+1301334500 /home/maxime/Bureau/Projet_2/Tests/DAT/Dat/Structures.hpp
+	<SFML/Graphics.hpp>
+
+1301332850 source:/home/maxime/Documents/Projet_2/Tests/DAT/Dat/cDAT.cpp
+	"cDAT.hpp"
+
+1301332596 /home/maxime/Documents/Projet_2/Tests/DAT/Dat/cDAT.hpp
+	"Structures.hpp"
+	<iostream>
+	<fstream>
+	"string.h"
+
+1303509495 /home/maxime/Documents/Projet_2/Tests/DAT/Dat/Structures.hpp
+	<SFML/Graphics.hpp>
+
+1301399475 source:/home/maxime/Documents/Projet_2/Tests/DAT/Dat/main.cpp
+	<SFML/Graphics.hpp>
+	<SFML/Audio.hpp>
+	"cDAT.hpp"
+

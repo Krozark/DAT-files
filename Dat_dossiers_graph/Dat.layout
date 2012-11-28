@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="Anim.hpp" open="0" top="0" tabpos="8">
+		<Cursor position="0" topLine="7" />
+	</File>
+	<File name="Animated.hpp" open="0" top="0" tabpos="7">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="DAT.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="7551" topLine="235" />
+	</File>
+	<File name="DAT.hpp" open="0" top="0" tabpos="5">
+		<Cursor position="389" topLine="0" />
+	</File>
+	<File name="Footer.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="366" topLine="8" />
+	</File>
+	<File name="Footer.hpp" open="0" top="0" tabpos="6">
+		<Cursor position="402" topLine="0" />
+	</File>
+	<File name="Header.cpp" open="0" top="0" tabpos="4">
+		<Cursor position="2600" topLine="58" />
+	</File>
+	<File name="Header.hpp" open="0" top="0" tabpos="3">
+		<Cursor position="345" topLine="0" />
+	</File>
+	<File name="MainFrame.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="6593" topLine="255" />
+	</File>
+	<File name="MainFrame.hpp" open="1" top="1" tabpos="2">
+		<Cursor position="2804" topLine="68" />
+	</File>
+	<File name="QSFMLCanvas.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="2676" topLine="72" />
+	</File>
+	<File name="QSFMLCanvas.hpp" open="0" top="0" tabpos="7">
+		<Cursor position="212" topLine="0" />
+	</File>
+	<File name="QSFMLCanvasDialog.cpp" open="0" top="0" tabpos="0">
+		<Cursor position="133" topLine="0" />
+	</File>
+	<File name="SFMLView.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="649" topLine="0" />
+	</File>
+	<File name="SFMLView.hpp" open="0" top="0" tabpos="4">
+		<Cursor position="0" topLine="1" />
+	</File>
+	<File name="Structures.hpp" open="0" top="0" tabpos="1">
+		<Cursor position="3367" topLine="136" />
+	</File>
+	<File name="TotalFrame.cpp" open="0" top="0" tabpos="3">
+		<Cursor position="1433" topLine="9" />
+	</File>
+	<File name="TotalFrame.hpp" open="0" top="0" tabpos="2">
+		<Cursor position="623" topLine="0" />
+	</File>
+	<File name="include/BreadCrumb.hpp" open="0" top="0" tabpos="6">
+		<Cursor position="358" topLine="3" />
+	</File>
+	<File name="lister.cpp" open="0" top="0" tabpos="5">
+		<Cursor position="2680" topLine="99" />
+	</File>
+	<File name="lister.hpp" open="0" top="0" tabpos="6">
+		<Cursor position="511" topLine="0" />
+	</File>
+	<File name="main.cpp" open="0" top="0" tabpos="7">
+		<Cursor position="472" topLine="0" />
+	</File>
+	<File name="src/BreadCrumb.cpp" open="0" top="0" tabpos="6">
+		<Cursor position="376" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="Dat" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/Dat" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/Dat" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Linker>
+			<Add library="sfml-audio" />
+			<Add library="sfml-graphics" />
+			<Add library="sfml-network" />
+			<Add library="sfml-system" />
+			<Add library="sfml-window" />
+		</Linker>
+		<Unit filename="Anim.cpp" />
+		<Unit filename="Anim.hpp" />
+		<Unit filename="Animated.cpp" />
+		<Unit filename="Animated.hpp" />
+		<Unit filename="DAT.cpp" />
+		<Unit filename="DAT.hpp" />
+		<Unit filename="Footer.cpp" />
+		<Unit filename="Footer.hpp" />
+		<Unit filename="Frame.cpp" />
+		<Unit filename="Frame.hpp" />
+		<Unit filename="Header.cpp" />
+		<Unit filename="Header.hpp" />
+		<Unit filename="MainFrame.cpp" />
+		<Unit filename="MainFrame.hpp" />
+		<Unit filename="QSFMLCanvas.cpp" />
+		<Unit filename="QSFMLCanvas.hpp" />
+		<Unit filename="QSFMLCanvasDialog.cpp" />
+		<Unit filename="QSFMLCanvasDialog.hpp" />
+		<Unit filename="SFMLView.cpp" />
+		<Unit filename="SFMLView.hpp" />
+		<Unit filename="Structures.hpp" />
+		<Unit filename="TotalFrame.cpp" />
+		<Unit filename="TotalFrame.hpp" />
+		<Unit filename="include/BreadCrumb.hpp" />
+		<Unit filename="lister.cpp" />
+		<Unit filename="lister.hpp" />
+		<Unit filename="main.cpp" />
+		<Unit filename="src/BreadCrumb.cpp" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
